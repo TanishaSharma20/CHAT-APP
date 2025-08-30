@@ -25,12 +25,12 @@ A real-time, browser-based chat application built with Node.js, Express, and Soc
 ## File Structure
 
 The project is divided into frontend and backend components:
-project-directory/
-│
-├── index.html # Main chat application page
-├── script.js # Client-side JavaScript logic
-├── server-completed.js # Complete server implementation
-└── server-starter.js # Starter file for learning exercises
+**project-directory/
+**│
+**├── index.html # Main chat application page
+**├── script.js # Client-side JavaScript logic
+**├── server-completed.js # Complete server implementation
+**└── server-starter.js # Starter file for learning exercises
 
 
 ## Installation & Setup
